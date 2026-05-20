@@ -1,0 +1,10 @@
+Alice,85
+Bob,92
+
+Charlie,invalid_grade
+David,78
+--- Processing Results ---
+Alice has a grade of 85
+Bob has a grade of 92
+David has a grade of 78
+Average grade is 85.0
