@@ -1,4 +1,8 @@
 
+# languages = ['Spanish', 'English', 'Russian', 'Chinese']
+# for index, language in enumerate(languages):
+#     print(f'Index {index} and language {language}')
+
 # digit = int(input("Enter a digit: "))
 # res = 1
 # for i in range(1, digit+1): #for loop using range
